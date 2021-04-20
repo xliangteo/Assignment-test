@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="roomAvailable" type="id" />
+    <item name="r_roomAvailableTV" type="id" />
+    <item name="roomUnavailable" type="id" />
+    <item name="r_roomUnavailableTV" type="id" />
+    <item name="roomBooked" type="id" />
+    <item name="r_roomBookedTV" type="id" />
+    <item name="totalRoom" type="id" />
+    <item name="r_totalRoomTV" type="id" />
+    <item name="gridView" type="id" />
+</resources>
